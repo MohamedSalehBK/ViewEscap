@@ -12,6 +12,12 @@
 
 
 
+## Project Structure
+
+<img src="https://github.com/MohamedSalehBK/ViewEscap/blob/master/ViewEscap-structure.png"/>
+
+
+
 ## Index
 
 [Fundamental Concepts](#fundamental-concepts)
