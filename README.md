@@ -10,9 +10,7 @@
   <img src="https://github.com/MohamedSalehBK/ViewEscap/blob/master/webpack.png" width="300px" height="auto">
 </p>
 
-## Disclaimer
 
-**** I am not affiliated to this course and wont be paid if you buy it. Just a student who loved this course and found it useful.
 
 ## Index
 
